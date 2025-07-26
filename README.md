@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" alt="Gopal Meena - Azure Expert" />
 </p>
+<p align="center">
+  <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/background.png" alt="Gopal Meena - Azure DevOps" width="100%" />
+</p>
 
 
 # Hi, I'm Gopal Meena 👋  
