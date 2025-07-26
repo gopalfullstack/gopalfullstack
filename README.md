@@ -1,7 +1,7 @@
 # Hi, I'm Gopal Meena 👋  
-
+---
 *"In Azure, we don’t just deploy code — we deliver confidence, scalability, and continuous innovation."*
-
+---
 **Azure Expert | FinOps Practitioner | DevOps Engineer | Cloud Architect**  
 Helping organizations optimize cloud costs & build scalable, automated Azure solutions.  
 
