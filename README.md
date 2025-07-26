@@ -56,7 +56,7 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 
 ---
 ---
-*"In Azure, we don’t just deploy code — we deliver confidence, scalability, and continuous innovation."*
+*"In Azure, we don’t just deploy code — we deliver confidence, scalability, and continuous innovation. Azure Expert Gopal Meena"* 
 ---
 
 
