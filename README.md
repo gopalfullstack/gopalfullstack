@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" alt="Gopal Meena" width="200" />
+</p>
+
+# Hi, I'm Gopal Meena 👋  
+**Expert Azure Cost Optimizer | FinOps Practitioner | DevOps Engineer**
+
+
+
 # Hi, I'm Gopal Meena 👋  
 
 **Expert Azure Cost Optimizer | FinOps Practitioner | Azure Platform Engineer | Azure DevOps Engineer | Azure Integration | Azure Automation | Azure Serverless | Terraform | Bicep | Powershell | Azure Solution Architect | FullStack**  
