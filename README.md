@@ -2,9 +2,11 @@
 <tr>
 <td>
 
-# Hi, I'm Gopal Meena 👋
-**Expert Azure Cost Optimizer | FinOps Practitioner | DevOps & Cloud Platform Engineer**  
-Helping organizations optimize cloud costs & build scalable, automated Azure solutions.
+# Hi, I'm Gopal Meena 👋  
+
+**Expert Azure Cost Optimizer | FinOps Practitioner | Azure Platform Engineer | Azure DevOps Engineer | Azure Integration | Azure Automation | Azure Serverless | Terraform | Bicep | Powershell | Azure Solution Architect | FullStack**  
+Helping organizations optimize cloud costs & build scalable, automated Azure solutions.  
+
 
 </td>
 <td>
@@ -16,12 +18,6 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 <p align="right">
   <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" alt="Gopal Meena" width="200" />
 </p>
-
-
-# Hi, I'm Gopal Meena 👋  
-
-**Expert Azure Cost Optimizer | FinOps Practitioner | Azure Platform Engineer | Azure DevOps Engineer | Azure Integration | Azure Automation | Azure Serverless | Terraform | Bicep | Powershell | Azure Solution Architect | FullStack**  
-Helping organizations optimize cloud costs & build scalable, automated Azure solutions.  
 
 ---
 
