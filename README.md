@@ -1,3 +1,30 @@
+<div style="background: linear-gradient(90deg, #0078D7, #005A9E); padding: 30px; border-radius: 12px; color: white;">
+
+<table>
+<tr>
+<td>
+
+# Hi, I'm Gopal Meena 👋  
+
+**Expert Azure Cost Optimizer | FinOps Practitioner | Azure Platform Engineer | Azure DevOps Engineer | Azure Integration | Azure Automation | Azure Serverless | Terraform | Bicep | Powershell | Azure Solution Architect | FullStack**  
+Helping organizations optimize cloud costs & build scalable, automated Azure solutions.  
+
+</td>
+<td>
+<img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" 
+     alt="Gopal Meena" 
+     width="550" 
+     style="border-radius: 50%; 
+            object-fit: cover; 
+            border: 5px solid #ffffff; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+</td>
+</tr>
+</table>
+
+</div>
+
+
 <table>
 <tr>
 <td>
