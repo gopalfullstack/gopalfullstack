@@ -1,3 +1,29 @@
+<p align="center">
+  <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/azure-header.png" alt="Azure DevOps Banner" width="100%">
+</p>
+
+<table>
+<tr>
+<td>
+
+# Hi, I'm Gopal Meena 👋  
+
+**Expert Azure Cost Optimizer | FinOps Practitioner | Azure Platform Engineer | Azure DevOps Engineer | Azure Integration | Azure Automation | Azure Serverless | Terraform | Bicep | Powershell | Azure Solution Architect | FullStack**  
+Helping organizations optimize cloud costs & build scalable, automated Azure solutions.  
+
+</td>
+<td>
+<img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" 
+     alt="Gopal Meena" 
+     width="300" 
+     style="border-radius:50%;" />
+</td>
+</tr>
+</table>
+
+
+
+
 <div style="background: linear-gradient(90deg, #0078D7, #005A9E); padding: 30px; border-radius: 12px; color: white;">
 
 <table>
