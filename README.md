@@ -78,15 +78,6 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalfullstack&layout=compact&theme=azure&hide_border=true&langs_count=10)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=gopalfullstack&theme=azure&hide_border=true)  
 
-
-## 📊 **GitHub Insights**
-
-![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalfullstack&show_icons=true&theme=azure&hide_border=true&count_private=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalfullstack&layout=compact&theme=azure&hide_border=true&langs_count=10)  
-![GitHub Streak](https://streak-stats.demolab.com?user=gopalfullstack&theme=azure&hide_border=true)  
-
-
-
 ---
 https://github.com/topics/azure-devops?utm_source=chatgpt.com
 ---
