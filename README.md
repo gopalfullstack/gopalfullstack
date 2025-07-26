@@ -18,6 +18,20 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
 
 ---
+# Hi, I'm Gopal Meena 👋
+
+🚀 **Azure Expert | FinOps Practitioner | DevOps Engineer | Cloud Architect**  
+Helping organizations optimize cloud costs & build scalable, automated Azure solutions.
+
+---
+
+### 🛠️ **What I Do**
+- **Azure DevOps & CI/CD** – Pipelines, GitHub Actions, Bicep, Terraform  
+- **FinOps** – Cost optimization, governance, reporting  
+- **Automation** – PowerShell, Python, Serverless (Functions & Logic Apps)  
+- **Kubernetes & Containers** – AKS, Docker, Helm  
+
+---
 
 ## 📚 **Current Projects**
 - [**Azure Cost Optimization Toolkit**](https://github.com/gopalfullstack/azure-cost-optimization)  
