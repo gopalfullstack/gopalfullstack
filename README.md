@@ -63,7 +63,7 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 
 ## 📫 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gopal-meena-359b5b197/)  
-[![YouTube](https://img.shields.io/badge/YouTube-Azure%20DevOps%20Academy-red?logo=youtube)](https://www.youtube.com/@azuredevopsacademy)  
+[![YouTube](https://img.shields.io/badge/YouTube-Azure%20DevOps%20Academy-red?logo=youtube)](https://www.youtube.com/@AzureCloudAcademy)  
 [![Credly](https://img.shields.io/badge/Credly-Badges-orange?logo=credly)](https://www.credly.com/users/gopal-meena)  
 
 ---
