@@ -1,41 +1,33 @@
-# Hi, I'm Gopal Meena 👋
+# Hi, I'm Gopal Meena 👋  
 
-🚀 **Full-Stack & Azure Cloud Engineer | FinOps Practitioner | DevOps Specialist**  
-Helping businesses optimize cloud costs & build scalable, automated solutions.
+**Azure DevOps Engineer | FinOps Practitioner | Cloud & Full-Stack Developer**  
+Amsterdam, Netherlands  
+📧 **gopal.fullstack@gmail.com** | 📞 **+31 617685082** | **+91 8106175920**  
+[**LinkedIn**](https://www.linkedin.com/in/gopal-meena-359b5b197/) • [**Credly**](https://www.credly.com/users/gopal-meena)  
 
----
-
-### 🛠️ **Tech Stack**
-- **Cloud & DevOps:** Azure, Terraform, Bicep, Azure DevOps, GitHub Actions  
-- **FinOps:** Cloud Cost Optimization, Reporting, Governance  
-- **Automation:** PowerShell, Python, Serverless (Functions & Logic Apps)  
-- **Containers:** Docker, Kubernetes (AKS), Helm  
-- **Web Development:** React, Node.js, Express, SQL  
+> *"An enthusiastic & highly energetic DevOps engineer with expertise in driving the development of high-revenue-generating products."*  
 
 ---
 
-### 📚 **Current Projects**
-- [**Azure Cost Optimization Toolkit**](https://github.com/gopalfullstack/azure-cost-optimization)
-- [**Playwright Automation Framework**](https://github.com/gopalfullstack/playwright-automation)
-- [**DevOps Starter Templates**](https://github.com/gopalfullstack/devops-starter)
+## **Profile Summary**
+- **9+ years of experience** in Software Development & Deployment with a strong background in **Azure Administration, Integration & DevOps**.  
+- **Microsoft Certified**: [AZ-204](https://www.credly.com/badges/573518a6-2176-47f3-a616-3b75d568defa), [AZ-305](https://www.credly.com/badges/34471fa7-b66c-43f2-a8bd-24a283055a93/public_url), [AZ-400](https://www.credly.com/badges/573518a6-2176-47f3-a616-3b75d568defa/public_url).  
+- Expertise in **Azure Cloud**, **CI/CD**, **Infrastructure as Code (IaC)**, **Serverless Architectures**, **Cost Optimization (FinOps)**, and **Full-Stack Development**.  
+- Proficient in **Terraform, Bicep, ARM Templates, PowerShell, Python, Node.js, .NET 8, React, and SQL**.  
+- Experienced in **Agile Methodologies** and all phases of **Software Development Life Cycle**.  
 
 ---
 
-### 🏆 **Certifications**
-- Microsoft Certified: **AZ-400**, **AZ-305**, **AZ-204**
-- **FinOps Certified Practitioner** *(In Progress)*
+## **Core Skills**
+**Cloud & DevOps**: Azure DevOps (CI/CD), Azure Repos (Git), YAML Templates, Terraform, Azure Bicep, ARM Templates, PowerShell, Azure CLI  
+**Security & Compliance**: Azure IAM, AAD, Key Vault, Azure Policy, Security Center  
+**Data & Integration**: Azure SQL, CosmosDB, PostgreSQL, ADF, Azure Databricks, ADLS, Power BI  
+**Programming**: Python (Django REST), Node.js, JavaScript, React, .NET 8, TypeScript  
+**Containers & Orchestration**: Docker, Kubernetes (AKS), Helm  
+**Cost Optimization (FinOps)**: Azure Cost Management, Billing, Advisor  
 
 ---
 
-### 📫 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gopal-meena-359b5b197/)  
-[![YouTube](https://img.shields.io/badge/YouTube-Azure%20DevOps%20Academy-red?logo=youtube)](https://www.youtube.com/@AzureCloudAcademy)  
-
----
-
-![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalfullstack&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalfullstack&layout=compact&theme=radical)
-
----
-
-*"In Azure, we don’t just deploy code — we deliver confidence, scalability, and continuous innovation."*
+## **Current Projects**
+- [**Azure Cost Optimization Toolkit**](https://github.com/gopalfullstack/azure-cost-optimization) – Cost governance & automation framework for Azure.  
+- [**DevOps Starter Templates**](https://github.com/gopalfullstack/devo)
