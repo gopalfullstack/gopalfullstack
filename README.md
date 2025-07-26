@@ -58,20 +58,6 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 ![GitHub Streak](https://streak-stats.demolab.com?user=gopalfullstack&theme=azure&hide_border=true)  
 
 ---
-
-### **🏆 Profile Highlights**
-- **9+ years** in **Azure DevOps, FinOps, and Full-Stack Engineering**  
-- **Microsoft Certified**: AZ-204 | AZ-305 | AZ-400  
-- **Expertise in**: Terraform, Bicep, PowerShell, Serverless, Azure Data Services  
-- **Specialized in**: **Cost Optimization (FinOps)** & **enterprise-grade CI/CD pipelines**  
-
----
-
-
-## 📊 **GitHub Stats**
-![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalfullstack&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalfullstack&layout=compact&theme=radical)  
-
 https://github.com/topics/azure-devops?utm_source=chatgpt.com
 ---
 
