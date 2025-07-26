@@ -1,7 +1,5 @@
 # Hi, I'm Gopal Meena 👋  
----
-*"In Azure, we don’t just deploy code — we deliver confidence, scalability, and continuous innovation."*
----
+
 **Azure Expert | FinOps Practitioner | DevOps Engineer | Cloud Architect**  
 Helping organizations optimize cloud costs & build scalable, automated Azure solutions.  
 
@@ -57,7 +55,9 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 [![Credly](https://img.shields.io/badge/Credly-Badges-orange?logo=credly)](https://www.credly.com/users/gopal-meena)  
 
 ---
-
+---
+*"In Azure, we don’t just deploy code — we deliver confidence, scalability, and continuous innovation."*
+---
 
 
 
