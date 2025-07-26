@@ -57,13 +57,6 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 
 ---
 
-
-
-## 📚 **Highlighted Projects**
-- [**Azure Cost Optimization Toolkit**](https://github.com/gopalfullstack/azure-cost-optimization) – Automating cost governance & optimization on Azure.  
-- [**DevOps Starter for Azure**](https://github.com/gopalfullstack/devops-starter) – Pre-built IaC & CI/CD pipeline templates.  
-
-
 ## 📫 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gopal-meena-359b5b197/)  
 [![YouTube](https://img.shields.io/badge/YouTube-Azure%20DevOps%20Academy-red?logo=youtube)](https://www.youtube.com/@AzureCloudAcademy)  
