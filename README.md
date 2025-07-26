@@ -1,4 +1,4 @@
-# Hi, I'm Gopal Meena 👋  
+# Hi, I'm Gopal Meena 👋  *"In Azure, we don’t just deploy code — we deliver confidence, scalability, and continuous innovation."*
 
 **Azure Expert | FinOps Practitioner | DevOps Engineer | Cloud Architect**  
 Helping organizations optimize cloud costs & build scalable, automated Azure solutions.  
@@ -18,10 +18,6 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
 
 ---
-# Hi, I'm Gopal Meena 👋
-
-🚀 **Azure Expert | FinOps Practitioner | DevOps Engineer | Cloud Architect**  
-Helping organizations optimize cloud costs & build scalable, automated Azure solutions.
 
 ---
 
@@ -60,6 +56,6 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 
 ---
 
-*"In Azure, we don’t just deploy code — we deliver confidence, scalability, and continuous innovation."*
+
 
 
