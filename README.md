@@ -3,10 +3,6 @@
 **Expert Azure Cost Optimizer | FinOps Practitioner | Azure Platform Engineer | Azure DevOps Engineer | Azure Integration | Azure Automation | Azure Serverless | Terraform | Bicep | Powershell | Azure Solution Architect | FullStack**  
 Helping organizations optimize cloud costs & build scalable, automated Azure solutions.  
 
----
-
----
-
 ## 🛠️ **Tech Stack & Skills**
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure)
@@ -71,9 +67,5 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 *"In Azure, we don’t just deploy code — we deliver confidence, scalability, and continuous innovation."*
 
 ---
----
-*"In Azure, we don’t just deploy code — we deliver confidence, scalability, and continuous innovation. Azure Expert Gopal Meena"* 
----
-
 
 
