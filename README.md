@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" alt="Azure DevOps Banner" width="100%">
-</p>
 
-<table>
-<tr>
-<td>
 
 # Hi, I'm Gopal Meena 👋  
 
