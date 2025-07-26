@@ -61,6 +61,24 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 
 ---
 
+## 🏆 **Profile Highlights**
+
+- **9+ years of experience** in **Azure DevOps, FinOps, and Full‑Stack Engineering**  
+- **Microsoft Certified**: [AZ‑204](https://www.credly.com/badges/573518a6-2176-47f3-a616-3b75d568defa) | [AZ‑305](https://www.credly.com/badges/34471fa7-b66c-43f2-a8bd-24a283055a93/public_url) | [AZ‑400](https://www.credly.com/badges/573518a6-2176-47f3-a616-3b75d568defa/public_url)  
+- Expertise in **Terraform, Bicep, PowerShell, Python, and CI/CD (Azure DevOps & GitHub Actions)**  
+- Specialized in **Cost Optimization (FinOps)** – delivering **20%+ cloud savings** for enterprises  
+- Skilled at building **enterprise‑grade Azure infrastructure**, **serverless solutions**, and **end‑to‑end pipelines**  
+- **Integration & Solution Architecture** experience across **PaaS, IaaS, and hybrid environments**  
+
+---
+
+## 📊 **GitHub Insights**
+
+![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalfullstack&show_icons=true&theme=azure&hide_border=true&count_private=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalfullstack&layout=compact&theme=azure&hide_border=true&langs_count=10)  
+![GitHub Streak](https://streak-stats.demolab.com?user=gopalfullstack&theme=azure&hide_border=true)  
+
+
 ## 📊 **GitHub Insights**
 
 ![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalfullstack&show_icons=true&theme=azure&hide_border=true&count_private=true&include_all_commits=true)  
