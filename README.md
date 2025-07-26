@@ -1,6 +1,6 @@
 # Hi, I'm Gopal Meena 👋  
 
-**Azure Expert | FinOps Practitioner | DevOps Engineer | Cloud Architect**  
+**Expert Azure Cost Optimizer | FinOps Practitioner | AZ-400 | AZ-305 | Azure Platform Engineer | Azure DevOps Engineer | Azure Integration | Azure Automation | Azure Serverless | Terraform | Azure Bicep | Azure Powershell | Azure Solution Architect | FullStack**  
 Helping organizations optimize cloud costs & build scalable, automated Azure solutions.  
 
 ---
