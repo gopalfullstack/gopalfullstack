@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/azure-header.png" alt="Azure DevOps Banner" width="100%">
+  <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" alt="Azure DevOps Banner" width="100%">
 </p>
 
 <table>
