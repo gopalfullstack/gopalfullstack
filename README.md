@@ -9,7 +9,7 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 
 </td>
 <td>
-<img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" alt="Gopal Meena" width="200" style="border-radius:50%;" />
+<img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" alt="Gopal Meena" width="400" style="border-radius:50%;" />
 </td>
 </tr>
 </table>
