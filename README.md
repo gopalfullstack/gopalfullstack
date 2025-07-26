@@ -3,6 +3,8 @@
 **Expert Azure Cost Optimizer | FinOps Practitioner | Azure Platform Engineer | Azure DevOps Engineer | Azure Integration | Azure Automation | Azure Serverless | Terraform | Bicep | Powershell | Azure Solution Architect | FullStack**  
 Helping organizations optimize cloud costs & build scalable, automated Azure solutions.  
 
+---
+
 ### **🏆 Profile Highlights**
 
 - **9+ years of experience** in **Azure DevOps, FinOps, and Full‑Stack Engineering**  
@@ -12,6 +14,7 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 - Skilled at building **enterprise‑grade Azure infrastructure**, **serverless solutions**, and **end‑to‑end pipelines**  
 - **Integration & Solution Architecture** experience across **PaaS, IaaS, and hybrid environments**  
 
+---
 
 ## 🛠️ **Tech Stack & Skills**
 
@@ -60,7 +63,6 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 - [**Azure Cost Optimization Toolkit**](https://github.com/gopalfullstack/azure-cost-optimization) – Automating cost governance & optimization on Azure.  
 - [**DevOps Starter for Azure**](https://github.com/gopalfullstack/devops-starter) – Pre-built IaC & CI/CD pipeline templates.  
 
---
 
 ## 📫 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gopal-meena-359b5b197/)  
