@@ -28,7 +28,7 @@ Helping businesses optimize cloud costs & build scalable, automated solutions.
 ---
 
 ### 📫 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gopal-meena)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gopal-meena-359b5b197/)  
 [![YouTube](https://img.shields.io/badge/YouTube-Azure%20DevOps%20Academy-red?logo=youtube)](https://www.youtube.com/@azuredevopsacademy)  
 
 ---
