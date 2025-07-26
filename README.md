@@ -1,16 +1,10 @@
-<p align="center">
-  <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" alt="Gopal Meena" width="200" />
-</p>
 
-<p align="center">
-  <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" alt="Gopal Meena - Azure Expert" />
-</p>
-<p align="center">
-  <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" alt="Gopal Meena - Azure DevOps" width="100%" />
-</p>
 
 
 # Hi, I'm Gopal Meena 👋  
+<p align="left">
+  <img src="https://github.com/gopalfullstack/gopalfullstack/blob/main/yourphoto.jpg" alt="Gopal Meena" width="200" />
+</p>
 **Expert Azure Cost Optimizer | FinOps Practitioner | DevOps Engineer**
 
 
