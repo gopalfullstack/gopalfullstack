@@ -59,21 +59,8 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 ## 📚 **Highlighted Projects**
 - [**Azure Cost Optimization Toolkit**](https://github.com/gopalfullstack/azure-cost-optimization) – Automating cost governance & optimization on Azure.  
 - [**DevOps Starter for Azure**](https://github.com/gopalfullstack/devops-starter) – Pre-built IaC & CI/CD pipeline templates.  
-- [**Playwright Test Automation Framework**](https://github.com/gopalfullstack/playwright-automation) – Advanced testing framework for enterprise apps.  
 
----
-
----
-
-## 📊 **GitHub Insights**
-
-![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalfullstack&show_icons=true&theme=azure&hide_border=true&count_private=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalfullstack&layout=compact&theme=azure&hide_border=true&langs_count=10)  
-![GitHub Streak](https://streak-stats.demolab.com?user=gopalfullstack&theme=azure&hide_border=true)  
-
----
-https://github.com/topics/azure-devops?utm_source=chatgpt.com
----
+--
 
 ## 📫 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gopal-meena-359b5b197/)  
