@@ -44,6 +44,16 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 
 ---
 
+### **🏆 Profile Highlights**
+
+- **9+ years of experience** in **Azure DevOps, FinOps, and Full‑Stack Engineering**  
+- **Microsoft Certified**: [AZ‑204](https://www.credly.com/badges/573518a6-2176-47f3-a616-3b75d568defa) | [AZ‑305](https://www.credly.com/badges/34471fa7-b66c-43f2-a8bd-24a283055a93/public_url) | [AZ‑400](https://www.credly.com/badges/573518a6-2176-47f3-a616-3b75d568defa/public_url)  
+- Expertise in **Terraform, Bicep, PowerShell, Python, and CI/CD (Azure DevOps & GitHub Actions)**  
+- Specialized in **Cost Optimization (FinOps)** – delivering **20%+ cloud savings** for enterprises  
+- Skilled at building **enterprise‑grade Azure infrastructure**, **serverless solutions**, and **end‑to‑end pipelines**  
+- **Integration & Solution Architecture** experience across **PaaS, IaaS, and hybrid environments**  
+
+
 ## 📚 **Highlighted Projects**
 - [**Azure Cost Optimization Toolkit**](https://github.com/gopalfullstack/azure-cost-optimization) – Automating cost governance & optimization on Azure.  
 - [**DevOps Starter for Azure**](https://github.com/gopalfullstack/devops-starter) – Pre-built IaC & CI/CD pipeline templates.  
@@ -58,14 +68,6 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 ![GitHub Streak](https://streak-stats.demolab.com?user=gopalfullstack&theme=azure&hide_border=true)  
 
 
-### **🏆 Profile Highlights**
-
-- **9+ years of experience** in **Azure DevOps, FinOps, and Full‑Stack Engineering**  
-- **Microsoft Certified**: [AZ‑204](https://www.credly.com/badges/573518a6-2176-47f3-a616-3b75d568defa) | [AZ‑305](https://www.credly.com/badges/34471fa7-b66c-43f2-a8bd-24a283055a93/public_url) | [AZ‑400](https://www.credly.com/badges/573518a6-2176-47f3-a616-3b75d568defa/public_url)  
-- Expertise in **Terraform, Bicep, PowerShell, Python, and CI/CD (Azure DevOps & GitHub Actions)**  
-- Specialized in **Cost Optimization (FinOps)** – delivering **20%+ cloud savings** for enterprises  
-- Skilled at building **enterprise‑grade Azure infrastructure**, **serverless solutions**, and **end‑to‑end pipelines**  
-- **Integration & Solution Architecture** experience across **PaaS, IaaS, and hybrid environments**  
 
 ---
 https://github.com/topics/azure-devops?utm_source=chatgpt.com
