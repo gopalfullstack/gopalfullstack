@@ -54,7 +54,6 @@ Helping organizations optimize cloud costs & build scalable, automated Azure sol
 ## 📊 **GitHub Stats**
 ![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalfullstack&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalfullstack&layout=compact&theme=radical)  
-![Gopal's GitHub stats](https://github.com/topics/azure-devops?utm_source=chatgpt.com&show_icons=true&theme=radical)  
 
 https://github.com/topics/azure-devops?utm_source=chatgpt.com
 ---
